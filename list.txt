@@ -43,6 +43,7 @@ plasma-systemmonitor 6.2.4-1
 power-profiles-daemon 0.23-2
 powerdevil 6.2.4-1
 print-manager 1:6.2.4-1
+python-pip 24.3.1-1
 redshift-qt 0.6-2
 screenfetch 3.9.9-1
 sddm 0.21.0-4
